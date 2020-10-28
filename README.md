@@ -6,11 +6,6 @@
 <p align="center">
 - 🌱 I’m currently learning **Vue, React**
 </p>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/randice_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="randice_" height="30" width="40" /></a>
-<a href="https://instagram.com/randice" target="blank"><img align="ce1nter" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="randice" height="30" width="40" /></a>
-</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">  
