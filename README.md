@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on <a href="https://github.com/DiceRandom/GenerateSpotifyPlaylistFromYoutube" target="blank">GenerateSpotifyPlaylistFromYoutube</a>
 </p>
 <p align="center">
-- 🌱 I’m currently learning **Vue, React**
+- 🌱 I’m currently learning Vue, React
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
