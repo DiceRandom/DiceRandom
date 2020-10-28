@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dice</h1>
 <h3 align="center">I am a software/computer enginerer working on hobbyist projects.</h3>
 <p align="center">
-- 🔭 I’m currently working on [GenerateSpotifyPlaylistFromYoutube](https://github.com/DiceRandom/GenerateSpotifyPlaylistFromYoutube)
+- 🔭 I’m currently working on <a href="https://github.com/DiceRandom/GenerateSpotifyPlaylistFromYoutube" target="blank">GenerateSpotifyPlaylistFromYoutube</a>
 </p>
 <p align="center">
 - 🌱 I’m currently learning **Vue, React**
