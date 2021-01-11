@@ -1,4 +1,4 @@
-<img width="20%" align="right" src="https://github.com/redstonekasi/redstonekasi/blob/master/logo.png?raw=true" />
+<img width="20%" align="right" src="https://github.com/DiceRandom/DiceRandom/blob/master/logo.png?raw=true" />
 
 Hi! 👋 I'm Dice, also known as randice, I am a software enginerer working on small hobbyist projects in my free time. 
 
