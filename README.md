@@ -1,6 +1,6 @@
 <img width="20%" align="right" src="https://github.com/DiceRandom/DiceRandom/blob/master/logo.png?raw=true" />
 
-<h1>Hi! 👋 I'm Dice, also known as randice</h1>
+###<p align="center" >Hi! 👋 I'm Dice, also known as randice</p>
 I am a software enginerer working on small hobbyist projects in my free time. 
 
 ## My current projects
