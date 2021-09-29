@@ -1,7 +1,6 @@
+<p align="center" >Hi! 👋 I'm Dice, also known as randice</p>
+<p align="center" >I am a software enginerer working on small hobbyist projects in my free time. </p>
 <img width="20%" align="right" src="https://github.com/DiceRandom/DiceRandom/blob/master/logo.png?raw=true" />
-
-###<p align="center" >Hi! 👋 I'm Dice, also known as randice</p>
-I am a software enginerer working on small hobbyist projects in my free time. 
 
 ## My current projects
 
