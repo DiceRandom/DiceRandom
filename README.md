@@ -1,10 +1,10 @@
-<p align="center" font-size="20px" >Hi! 👋 I'm Dice, also known as randice</p>
-<p align="center" >I am a software enginerer working on small hobbyist projects in my free time. </p>
+# dice
+
 <img width="20%" align="right" src="https://github.com/DiceRandom/DiceRandom/blob/master/logo.png?raw=true" />
+<p font-size="20px" >Hi! 👋 I'm Dice, also known as randice.</p>
+<p>I am a software enginerer working on small hobbyist projects in my free time. </p>
 
-## My current projects
+## my current projects
 
-- [**GenerateSpotifyPlaylistFromYoutube**](https://github.com/DiceRandom/GenerateSpotifyPlaylistFromYoutube)  
-    🎵 Generate a Spotify Playlist from a Youtube Playlist
-- [**c4rd**](https://github.com/DiceRandom/c4rd)  
-    🃏 A free alternative to linktree
+- **TwitterTool**
+    - 🐥 A Twitter extension to fix all the Elon Musk Garbage
