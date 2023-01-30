@@ -6,5 +6,5 @@
 
 ## my current projects
 
-- **TwitterTool**
+- **TwitterTool** (still in alpha) 
     - 🐥 A Twitter extension to fix all the Elon Musk Garbage
