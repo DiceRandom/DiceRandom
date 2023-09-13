@@ -6,5 +6,10 @@
 
 ## my current projects
 
-- **TwitterTool** (still in alpha testing) 
-    - 🐥 A Twitter extension to fix all the Elon Musk Garbage
+- **Pixel Hotel** (Hotel) 
+    - 🏨 A mobile hotel management game
+
+- **GSPFY** (GenerateSpotifyPlaylistFromYoutube)
+    - 🎵 Create a Spotify Playlist from a Youtube Playlist
+        - Currently reworking the backend planning to make it public
+
