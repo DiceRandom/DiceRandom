@@ -14,6 +14,9 @@
 - **Pixel Hotel** (Hotel) 
     - 🏨 A mobile hotel management game
 
+- **Time Puzzle**
+    - ⏱ A puzzle game about freezing time
+
 - **GSPFY** (GenerateSpotifyPlaylistFromYoutube)
     - 🎵 Create a Spotify Playlist from a Youtube Playlist
         - Currently reworking the backend planning to make it public
